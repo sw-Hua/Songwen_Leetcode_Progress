@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05e0a809-f5e4-4190-bb97-ad0b8f624102" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Leetcode" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../local/enviroment/jdk1.8.0_251.jdk/Contents/Home/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../local/maven/apache-maven-3.6.1/maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../local/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../local/maven/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2X9hwfGCFKpL3GnqQwGrfBNSfkC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/huasongwen/IdeaProjects/Leetcode刷题&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Leetcode_125">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.Leetcode_125" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode1" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode1" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode1" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_80 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode_80" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Leetcode_125" />
+        <item itemvalue="Application.leetcode1 (2)" />
+        <item itemvalue="Application.leetcode1" />
+        <item itemvalue="Application.leetcode1 (1)" />
+        <item itemvalue="Application.leetcode_80 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e0a809-f5e4-4190-bb97-ad0b8f624102" name="Default Changelist" comment="" />
+      <created>1698047445748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698047445748</updated>
+      <workItem from="1698047447585" duration="117000" />
+      <workItem from="1698047604358" duration="1423000" />
+      <workItem from="1698049537907" duration="8339000" />
+      <workItem from="1698126126727" duration="2857000" />
+      <workItem from="1698226423245" duration="1114000" />
+      <workItem from="1698228211232" duration="1614000" />
+      <workItem from="1699108994468" duration="3503000" />
+      <workItem from="1699159339060" duration="1560000" />
+      <workItem from="1699245653221" duration="4566000" />
+      <workItem from="1699253294470" duration="74000" />
+      <workItem from="1699939044926" duration="9000" />
+      <workItem from="1700492245922" duration="7149000" />
+      <workItem from="1700732115019" duration="130000" />
+      <workItem from="1700837535280" duration="489000" />
+      <workItem from="1700841544549" duration="5356000" />
+      <workItem from="1701011040895" duration="822000" />
+      <workItem from="1701262756188" duration="2236000" />
+      <workItem from="1701341786942" duration="1356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
