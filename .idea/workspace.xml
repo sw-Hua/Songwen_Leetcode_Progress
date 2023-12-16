@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05e0a809-f5e4-4190-bb97-ad0b8f624102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/面试经典150/arrayAndString数组和字符串/Leetcode_205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/面试经典150/arrayAndString数组和字符串/leetcode_290.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sw-Hua"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sw-Hua&quot;
   }
-}]]></component>
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -81,7 +81,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Leetcode_205 (2)">
+  <component name="RunManager" selected="Application.leetcode_290">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -147,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode1" />
+    <configuration name="leetcode_290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode_290" />
       <module name="Leetcode刷题" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode_290" />
         <item itemvalue="Application.Leetcode_205 (2)" />
         <item itemvalue="Application.Leetcode_205" />
         <item itemvalue="Application.Leetcode_205 (1)" />
         <item itemvalue="Application.Leetcode_125" />
-        <item itemvalue="Application.leetcode1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,8 @@
       <workItem from="1701341786942" duration="1356000" />
       <workItem from="1701691098872" duration="211000" />
       <workItem from="1701692476682" duration="426000" />
-      <workItem from="1702659911133" duration="2091000" />
+      <workItem from="1702659911133" duration="7173000" />
+      <workItem from="1702696285815" duration="146000" />
     </task>
     <servers />
   </component>
@@ -215,6 +216,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/面试经典150/arrayAndString数组和字符串/leetcode_290.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
