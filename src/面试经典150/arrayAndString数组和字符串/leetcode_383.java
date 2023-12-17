@@ -7,7 +7,8 @@ public class leetcode_383 {
     public static void main(String[] args) {
         String ransomNote = "aa";
         String magazine = "aab";
-        new Solution_383().canConstruct(ransomNote, magazine);
+        Solution_383 solution383 = new Solution_383();
+        solution383.canConstruct(ransomNote, magazine);
     }
 
 }
@@ -20,13 +21,14 @@ class Solution_383 {
 
         // 统计ransomNote字符串中每个字符的出现次数
         for (char ch : ransomNote.toCharArray()) {
-            ransomNoteMap.put(ch, ransomNoteMap.getOrDefault(ch, 0) + 1);
+            ransomNoteMap.put(ch, ransomNoteMap.getOrDefault(ch, 0) + 1); // getOrDefault就是通过key来获取value，如果没有就返回后面设置的默认值
         }
 
         // 统计magazine字符串中每个字符的出现次数
         for (char ch : magazine.toCharArray()) {
             magazineMap.put(ch, magazineMap.getOrDefault(ch, 0) + 1);
         }
+
 
         // 检查ransomNote中的每个字符是否在magazine中出现并且出现次数足够
         for (Map.Entry<Character, Integer> entry : ransomNoteMap.entrySet()) {

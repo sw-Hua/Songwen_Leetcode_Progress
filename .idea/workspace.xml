@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05e0a809-f5e4-4190-bb97-ad0b8f624102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/面试经典150/arrayAndString数组和字符串/leetcode_290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/面试经典150/arrayAndString数组和字符串/leetcode_383.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试经典150/arrayAndString数组和字符串/leetcode_383.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leetcode_290">
+  <component name="RunManager" selected="Application.leetcode_383">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -95,46 +95,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.Leetcode_125" />
-      <module name="Leetcode刷题" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode_205 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.Leetcode_205" />
-      <module name="Leetcode刷题" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leetcode_205 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.Leetcode_205" />
-      <module name="Leetcode刷题" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode_205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.Leetcode_205" />
       <module name="Leetcode刷题" />
       <extension name="coverage">
@@ -160,13 +121,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leetcode_383 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode_383" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_383 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode_383" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试经典150.arrayAndString数组和字符串.leetcode_383" />
+      <module name="Leetcode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试经典150.arrayAndString数组和字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode_383" />
+        <item itemvalue="Application.leetcode_383 (2)" />
+        <item itemvalue="Application.leetcode_383 (1)" />
         <item itemvalue="Application.leetcode_290" />
         <item itemvalue="Application.Leetcode_205 (2)" />
-        <item itemvalue="Application.Leetcode_205" />
-        <item itemvalue="Application.Leetcode_205 (1)" />
-        <item itemvalue="Application.Leetcode_125" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +200,7 @@
       <workItem from="1701692476682" duration="426000" />
       <workItem from="1702659911133" duration="7173000" />
       <workItem from="1702696285815" duration="146000" />
+      <workItem from="1702834811047" duration="1370000" />
     </task>
     <servers />
   </component>
@@ -216,11 +217,6 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/面试经典150/arrayAndString数组和字符串/leetcode_290.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
